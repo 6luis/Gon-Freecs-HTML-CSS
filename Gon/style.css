@@ -1,0 +1,54 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+h1 {
+  background: white;
+  padding: 10px;
+  text-align: center;
+  border: 10px solid  rgb(166, 246, 170);
+  text-shadow: 2px 2px 0.1px  rgb(166, 246, 170) ;
+ 
+
+}
+body { 
+    background: black;
+}
+p {
+    font-size: 15px;
+    color: white;
+    padding: 20px;
+}
+.all { 
+    display: flex;
+}
+img {
+    width: 300px;
+    height: 550px;
+    border: 11px solid rgb(166, 246, 170);
+    
+}
+.Hunter { 
+    text-decoration: none;
+    color: rgb(166, 246, 170) ;
+}
+.ball { 
+    border: 11px solid rgb(166, 246, 170);
+}
+.video2 { 
+    display:flex;
+    align-items:center;
+    justify-content: center;
+    padding: 50px;
+    
+}
+.Gon{ 
+    text-decoration: none;
+    color: rgb(166, 246, 170) ;
+}
+.Ging{ 
+    text-decoration: none;
+    color: rgb(166, 246, 170) ;
+}
+
